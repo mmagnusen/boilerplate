@@ -1,0 +1,1 @@
+console.log('hello, this is a log coming from main.js')
